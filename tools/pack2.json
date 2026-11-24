@@ -1,0 +1,417 @@
+{
+ "day16_claude-product-prompts": {
+  "photo": "/home/claude/car/photos/p00.jpg",
+  "slides": [
+   [
+    "cover",
+    "5 Claude prompts that write your product",
+    "Copy them into your notes."
+   ],
+   [
+    "content",
+    "01",
+    "Outline it",
+    "Give your product a clear shape first.",
+    "\"Create a simple outline for a [product] that helps [buyer] get [result]. Keep it to 6 sections.\""
+   ],
+   [
+    "content",
+    "02",
+    "Write one section",
+    "Never ask for the whole thing at once.",
+    "\"Write section 2 in a warm, simple voice. Short sentences. Add examples a beginner relates to.\""
+   ],
+   [
+    "content",
+    "03",
+    "Add the extras",
+    "Checklists make a product feel finished.",
+    "\"Turn this section into a one page checklist with 8 clear action steps.\""
+   ],
+   [
+    "content",
+    "04",
+    "Name it",
+    "A good name sells the result.",
+    "\"Give me 10 product names that promise [result] without sounding salesy.\""
+   ],
+   [
+    "content",
+    "05",
+    "Write the sales page",
+    "Then edit it so it sounds like you.",
+    "\"Write a short sales page: the problem, what is inside, who it is for and who it is not for.\""
+   ],
+   [
+    "cta",
+    "The kit includes my full Claude process, plus a finished product if you would rather skip writing.",
+    "KIT"
+   ]
+  ]
+ },
+ "day18_faceless-myths": {
+  "photo": "/home/claude/car/photos/p02.jpg",
+  "slides": [
+   [
+    "cover",
+    "4 myths about faceless digital products",
+    "Number 3 kept me stuck for months."
+   ],
+   [
+    "content",
+    "01",
+    "\"You need a big following\"",
+    "You need the right people, not a lot of them. Small accounts make sales too.",
+    null
+   ],
+   [
+    "content",
+    "02",
+    "\"Faceless means fake\"",
+    "Faceless is a format, not a lie. Your voice and your help are real.",
+    null
+   ],
+   [
+    "content",
+    "03",
+    "\"I need to be an expert\"",
+    "You need to be one step ahead and genuinely useful.",
+    null
+   ],
+   [
+    "content",
+    "04",
+    "\"It's passive from day one\"",
+    "It gets quieter over time. At the start, you show up and post.",
+    null
+   ],
+   [
+    "cta",
+    "Ready for the real version? The kit gives you the product, the plan and the setup.",
+    "KIT"
+   ]
+  ]
+ },
+ "day20_pick-your-niche": {
+  "photo": "/home/claude/car/photos/p03.jpg",
+  "slides": [
+   [
+    "cover",
+    "How to pick your niche in one evening",
+    "Without overthinking it for weeks."
+   ],
+   [
+    "content",
+    "01",
+    "List what you know",
+    "Jobs, hobbies, life seasons. Write down 10 things people ask you about.",
+    null
+   ],
+   [
+    "content",
+    "02",
+    "Circle who pays",
+    "Busy mums, new business owners, students, brides. Pick people with a clear problem.",
+    null
+   ],
+   [
+    "content",
+    "03",
+    "Check it is alive",
+    "Search the topic on Pinterest and Etsy. Lots of products is a good sign.",
+    null
+   ],
+   [
+    "content",
+    "04",
+    "Choose and commit",
+    "Give it 30 days. You can always widen it later.",
+    null
+   ],
+   [
+    "cta",
+    "Need inspiration? Grab my free list of 50 digital product ideas to get you started.",
+    "IDEAS"
+   ]
+  ]
+ },
+ "day22_pricing-guide": {
+  "photo": "/home/claude/car/photos/p13x.jpg",
+  "slides": [
+   [
+    "cover",
+    "How to price your first digital product",
+    "A simple guide for nervous beginners."
+   ],
+   [
+    "content",
+    "$7",
+    "Mini products",
+    "One page checklists, prompt lists and printables. An easy first yes.",
+    null
+   ],
+   [
+    "content",
+    "$17",
+    "Small guides",
+    "A short guide with templates. Solves one clear problem.",
+    null
+   ],
+   [
+    "content",
+    "$37",
+    "Starter kits",
+    "A complete system with bonuses. The sweet spot for most beginners.",
+    null
+   ],
+   [
+    "content",
+    "Tip",
+    "Price the result",
+    "Not the page count. Ask what it saves your buyer: time, stress or money.",
+    null
+   ],
+   [
+    "cta",
+    "My kit is a $37 product you can rebrand and sell as your own, at your own price.",
+    "KIT"
+   ]
+  ]
+ },
+ "day24_first-sale-steps": {
+  "photo": "/home/claude/car/photos/p06.jpg",
+  "slides": [
+   [
+    "cover",
+    "Your first sale in 5 calm steps",
+    "Save this and do one a day."
+   ],
+   [
+    "content",
+    "01",
+    "Have one product",
+    "Make it, or start with one that comes with resale rights.",
+    null
+   ],
+   [
+    "content",
+    "02",
+    "Set up your store",
+    "One checkout page. Price, a cover image and three bullet points.",
+    null
+   ],
+   [
+    "content",
+    "03",
+    "Turn on auto DMs",
+    "A comment keyword sends the link, even while you sleep.",
+    null
+   ],
+   [
+    "content",
+    "04",
+    "Post every day",
+    "Useful posts for your buyer, with one clear call to action.",
+    null
+   ],
+   [
+    "content",
+    "05",
+    "Talk to people",
+    "Reply to every comment and DM. Small conversations make sales.",
+    null
+   ],
+   [
+    "cta",
+    "The kit walks you through every step, with the product already made for you.",
+    "KIT"
+   ]
+  ]
+ },
+ "day26_canva-tips": {
+  "photo": "/home/claude/car/photos/p07.jpg",
+  "slides": [
+   [
+    "cover",
+    "5 Canva tips to make your product look expensive",
+    "Small changes, big difference."
+   ],
+   [
+    "content",
+    "01",
+    "Use two fonts only",
+    "One elegant serif for titles, one clean sans for body text.",
+    null
+   ],
+   [
+    "content",
+    "02",
+    "Pick 3 colours",
+    "A light neutral, a soft accent and a dark text colour. Save them as a brand kit.",
+    null
+   ],
+   [
+    "content",
+    "03",
+    "Leave white space",
+    "Crowded pages look cheap. Let every page breathe.",
+    null
+   ],
+   [
+    "content",
+    "04",
+    "Make a mockup",
+    "Show your product on a tablet or phone screen for your cover image.",
+    null
+   ],
+   [
+    "content",
+    "05",
+    "Keep it consistent",
+    "Same margins, same headings, same style on every page.",
+    null
+   ],
+   [
+    "cta",
+    "The kit comes as an editable Canva product, ready for your fonts and colours.",
+    "KIT"
+   ]
+  ]
+ },
+ "day28_product-checklist": {
+  "photo": "/home/claude/car/photos/p08.jpg",
+  "slides": [
+   [
+    "cover",
+    "Is your digital product ready to sell?",
+    "A checklist before you hit publish."
+   ],
+   [
+    "content",
+    "+",
+    "It solves one problem",
+    "You can describe the result in one sentence.",
+    null
+   ],
+   [
+    "content",
+    "+",
+    "It looks clean",
+    "Readable fonts, consistent design, no typos.",
+    null
+   ],
+   [
+    "content",
+    "+",
+    "It has a clear name",
+    "Your buyer knows what it is from the title alone.",
+    null
+   ],
+   [
+    "content",
+    "+",
+    "Delivery works",
+    "You bought it yourself as a test and the file arrived.",
+    null
+   ],
+   [
+    "content",
+    "+",
+    "You have 3 posts ready",
+    "So it has somewhere to be seen from day one.",
+    null
+   ],
+   [
+    "cta",
+    "Not sure what to make yet? Start with my free list of 50 digital product ideas.",
+    "IDEAS"
+   ]
+  ]
+ },
+ "day30_quiet-day": {
+  "photo": "/home/claude/car/photos/p09.jpg",
+  "slides": [
+   [
+    "cover",
+    "What 30 minutes a day can look like",
+    "My quiet faceless routine."
+   ],
+   [
+    "content",
+    "10",
+    "minutes: create",
+    "Film one b roll clip and design today's post in Canva.",
+    null
+   ],
+   [
+    "content",
+    "10",
+    "minutes: post",
+    "Write the caption with Claude, add a keyword and share it.",
+    null
+   ],
+   [
+    "content",
+    "10",
+    "minutes: connect",
+    "Reply to comments and DMs. This is where trust is built.",
+    null
+   ],
+   [
+    "content",
+    "Tip",
+    "Batch on weekends",
+    "Make 5 posts in one sitting and your weekdays get even lighter.",
+    null
+   ],
+   [
+    "cta",
+    "The kit includes a 30 day plan so you always know what to post next.",
+    "KIT"
+   ]
+  ]
+ },
+ "day32_idea-sources": {
+  "photo": "/home/claude/car/photos/p11.jpg",
+  "slides": [
+   [
+    "cover",
+    "Where to find digital product ideas",
+    "4 places I look every week."
+   ],
+   [
+    "content",
+    "01",
+    "Your own camera roll",
+    "Things you plan, track or organise often hint at a product.",
+    null
+   ],
+   [
+    "content",
+    "02",
+    "Pinterest searches",
+    "Type a topic and read the suggestions. That is real demand.",
+    null
+   ],
+   [
+    "content",
+    "03",
+    "Comment sections",
+    "Questions people keep asking are products waiting to be made.",
+    null
+   ],
+   [
+    "content",
+    "04",
+    "Etsy best sellers",
+    "Not to copy. To see what people already happily pay for.",
+    null
+   ],
+   [
+    "cta",
+    "Want a head start? My free list has 50 digital product ideas you could make this month.",
+    "IDEAS"
+   ]
+  ]
+ }
+}
