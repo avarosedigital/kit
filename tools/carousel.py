@@ -59,11 +59,11 @@ def content(num, title, body, box):
             "<div style='width:90px;height:2px;background:#C9858B;margin-top:34px'></div>"
             f"<p style='font-size:38px;line-height:1.5;margin-top:32px;color:#6b5d53'>{E(body)}</p>{b}</div>")
 
-def cta(line, kw='KIT'):
+def cta(line, kw='KIT', kicker='Want the full system?'):
     return ("<div style='position:absolute;inset:0;background:#F7E4E2'></div>"
             "<div class='dot' style='left:-180px;bottom:-200px;width:620px;height:620px;background:#EFD2D0'></div>"
             "<div class='dot' style='right:120px;top:210px;width:40px;height:40px;background:#C9858B'></div>"
-            "<div class='brand' style='position:relative;color:#A8646B'>Want the full system?</div>"
+            f"<div class='brand' style='position:relative;color:#A8646B'>{E(kicker)}</div>"
             "<div style='position:absolute;left:96px;right:96px;top:0;bottom:150px;display:flex;flex-direction:column;justify-content:center'>"
             "<div class='it' style='font-size:96px;color:#2A211B'>comment</div>"
             f"<div class='disp' style='font-size:300px;line-height:.86;color:#A8646B;letter-spacing:6px'>{E(kw)}</div>"
@@ -80,7 +80,7 @@ async def main(data, out):
             for n, s in enumerate(sl, 1):
                 if s[0] == 'cover': h, dark = cover(s[1], s[2], c['photo']), True
                 elif s[0] == 'content': h, dark = content(s[1], s[2], s[3], s[4] if len(s) > 4 else None), False
-                else: h, dark = cta(s[1], s[2] if len(s) > 2 else 'KIT'), False
+                else: h, dark = cta(s[1], s[2] if len(s) > 2 else 'KIT', s[3] if len(s) > 3 else 'Want the full system?'), False
                 await pg.set_content(page(h, n, total, dark)); await pg.evaluate('document.fonts.ready'); await pg.wait_for_timeout(150)
                 tmp = d / f'_s{n}.png'; await pg.screenshot(path=str(tmp))
                 Image.open(tmp).convert('RGB').resize((1080, 1350), Image.LANCZOS).save(d / f'slide{n}.jpg', quality=95); tmp.unlink()
